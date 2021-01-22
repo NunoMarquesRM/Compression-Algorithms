@@ -1,0 +1,3 @@
+Tamanho do ficheiro antes da compressão(bits):  233310
+Tamanho do ficheiro depois da compressao(bits):  77727
+Compressão:  0.333149
